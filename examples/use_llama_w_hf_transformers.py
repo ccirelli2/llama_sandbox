@@ -29,6 +29,7 @@ pipeline = transformers.pipeline(
     token=HF_TOKEN
 )
 
-
+test = pipeline("Hey how are you doing today?")
+print(test)
 
 

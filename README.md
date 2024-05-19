@@ -34,3 +34,10 @@ Sandbox for deploying and testing a local deployment of llama3
   - https://github.com/EleutherAI/lm-evaluation-harness
 - Google Evaluator Safe Model
   - https://ai.google.dev/responsible
+- Fine Tuning Library - TorchTune
+  - https://pytorch.org/torchtune/stable/overview.html
+  - tutorial: https://pytorch.org/torchtune/stable/tutorials/first_finetune_tutorial.html#finetune-llama-label
+- Parallel Turning Library
+  - https://pytorch.org/docs/stable/fsdp.html
+- RAG Tutorial HF
+  - https://huggingface.co/blog/not-lain/rag-chatbot-using-llama3
