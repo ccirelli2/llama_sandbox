@@ -30,3 +30,7 @@ Sandbox for deploying and testing a local deployment of llama3
 - Research Paper - Saftey Tuned Llamas
   - https://arxiv.org/html/2309.07875v3
   - Training large language models to follow instructions makes them perform better on a wide range of tasks and generally become more helpful. However, a perfectly helpful model will follow even the most malicious instructions and readily generate harmful content. In this paper, we raise concerns over the safety of models that only emphasize helpfulness, not harmlessness, in their instruction-tuning. We show that several popular instruction-tuned models are highly unsafe
+- Model Evaluation Library
+  - https://github.com/EleutherAI/lm-evaluation-harness
+- Google Evaluator Safe Model
+  - https://ai.google.dev/responsible

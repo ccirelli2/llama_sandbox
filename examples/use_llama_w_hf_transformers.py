@@ -8,6 +8,8 @@ References
     - overview: https://huggingface.co/transformers/
     - source: https://github.com/huggingface/transformers/blob/v4.41.0/src/transformers/pipelines/__init__.py#L562
     - description: provides a simple API for NLP tasks like using models for inference.
+- pytorch-accerlerate library
+    - https://github.com/huggingface/accelerate
 """
 import os
 import torch
